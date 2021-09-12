@@ -1,8 +1,10 @@
-# challenge-1-refactor
+# Company-Site-Model
+
+![image](https://user-images.githubusercontent.com/10663977/132967168-a10d713e-70d7-48d8-a106-5d17d3245a29.png)
 
 Project Summary
 ===============
-Given starter code to an existing marketing site, refactor to make it more accessible.
+
 
 Folder Structure
 ================
